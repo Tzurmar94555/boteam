@@ -4,6 +4,7 @@ import json
 import os
 from datetime import datetime
 
+
 # 設定機器人
 intents = discord.Intents.default()
 intents.message_content = True
