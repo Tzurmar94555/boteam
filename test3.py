@@ -10,6 +10,6 @@ async def on_ready():
 
 @bot.command()
 async def send_image(ctx):
-    await ctx.send(file=discord.File('path_to_your_image.jpg'))
+    await ctx.send(file=discord.File('https://pbs.twimg.com/media/GLCr8DEWgAACuCX.jpg:large'))
 
 bot.run('MTI0MTI2NTUyMDQzNTUyNzcwMA.GK1SOL.DFHtDo7pqc7g75c3mzt80EOgF1YMuZuSqlTOnU')
