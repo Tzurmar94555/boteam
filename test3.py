@@ -13,3 +13,4 @@ async def send_image(ctx):
     await ctx.send(file=discord.File('https://pbs.twimg.com/media/GLCr8DEWgAACuCX.jpg:large'))
 
 bot.run('MTI0MTI2NTUyMDQzNTUyNzcwMA.GK1SOL.DFHtDo7pqc7g75c3mzt80EOgF1YMuZuSqlTOnU')
+print("照片已發送")
