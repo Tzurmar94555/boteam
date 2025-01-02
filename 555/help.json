@@ -1,0 +1,64 @@
+{
+    "commands": [
+        {
+            "command": "play",
+            "description": "播放指定的音樂。用法：!play <音樂網址>"
+        },
+        {
+            "command": "loop",
+            "description": "循環播放指定的音樂。用法：!loop <音樂網址>"
+        },
+        {
+            "command": "stop",
+            "description": "暫停當前播放的音樂。用法：!stop"
+        },
+        {
+            "command": "continue",
+            "description": "繼續播放暫停的音樂。用法：!continue"
+        },
+        {
+            "command": "skip",
+            "description": "跳過當前播放的音樂。用法：!skip"
+        },
+        {
+            "command": "leave",
+            "description": "讓機器人離開語音頻道。用法：!leave"
+        },
+        {
+            "command": "hello",
+            "description": "機器人回應 Hello!。用法：!hello"
+        },
+        {
+            "command": "hotsong",
+            "description": "顯示 KKBOX 每小時排行榜中的前 5 首歌曲。用法：!hotsong"
+        },
+        {
+            "command": "hotsonglink",
+            "description": "顯示 KKBOX 每小時排行榜中的前 5 首歌曲的 YouTube 影片網址。用法：!hotlink"
+        },
+        {
+            "command": "add",
+            "description": "將指定的音樂網址添加到播放列表。用法：!add <音樂網址>"
+        },
+        {
+            "command": "del",
+            "description": "刪除指定的音樂網址及其資訊。用法：!del <音樂網址>"
+        },
+        {
+            "command": "list",
+            "description": "顯示播放列表中的所有歌曲名稱。用法：!list"
+        },
+        {
+            "command": "playlist",
+            "description": "播放播放列表中的所有歌曲。用法：!playlist"
+        },
+        {
+            "command": "help",
+            "description": "顯示所有可用指令及其功能。用法：!help"
+        },
+        {
+            "command": "playhotsong",
+            "description": "播放 KKBOX 每小時排行榜中的前 5 首歌曲。用法：!playhs"
+        }
+    ]
+}
